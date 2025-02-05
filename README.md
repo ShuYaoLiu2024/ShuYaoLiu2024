@@ -1,7 +1,5 @@
-- 👋 Hi, I’m ShuYao Liu
+- 👋 Hi, I’m ShuYao Liu, 强大的刘枢尧
 
-- 👀 I’m interested in Aerospace and Fluid Mechanics...
-- 🌱 I’m currently learning Reliability theory...
 - 📫 Reach me at liushuyao2022@gmail.com
 
 <!---
